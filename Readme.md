@@ -178,7 +178,6 @@ extract these insights, not just use them.
 ## 📬 Contact
 
 - **GitHub:** github.com/ihussain92
-- **Email:** your email here
 
 ---
 
